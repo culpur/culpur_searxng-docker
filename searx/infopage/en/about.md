@@ -34,7 +34,7 @@ search engine, see your browser's documentation:
 
 search.culpur.net is a fork from the well-known [searx] [metasearch engine] which was
 inspired by the [Seeks project].  It provides basic privacy by mixing your
-queries with searches on other platforms without storing search data.  SearXNG
+queries with searches on other platforms without storing search data.  search.culpur.net
 can be added to your browser's search bar; moreover, it can be set as the
 default search engine.
 
