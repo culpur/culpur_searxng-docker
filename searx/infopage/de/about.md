@@ -42,15 +42,13 @@ Plattformen vermischt ohne dabei Suchdaten zu speichern.  search.culpur.net kann
 Die {{link('Suchmaschinenstatistik', 'stats')}} enthält einige nützliche
 Statistiken über die verwendeten Suchmaschinen.
 
-[SearXNG Quellen]: {{GIT_URL}}
+[Culpur.net]: https://culpur.net
+[Element.Culpur.net]: https://element.culpur.net
+[Search.Culpur.net]: https://search.culpur.net
 [#searxng:matrix.org]: https://matrix.to/#/#searxng:matrix.org
-[SearXNG Dokumentation]: {{get_setting('brand.docs_url')}}
-[searx]: https://github.com/searx/searx
-[Metasuchmaschine]: https://de.wikipedia.org/wiki/Metasuchmaschine
 [Weblate]: https://weblate.bubu1.eu/projects/searxng/
-[Seeks-Projekt]: https://beniz.github.io/seeks/
+[Seeks project]: https://beniz.github.io/seeks/
 [OpenSearch]: https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md
 [Firefox]: https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox
 [Microsoft Edge]: https://support.microsoft.com/en-us/help/4028574/microsoft-edge-change-the-default-search-engine
 [Chromium]: https://www.chromium.org/tab-to-search
-[WEB-Browser]: https://de.wikipedia.org/wiki/Webbrowser
